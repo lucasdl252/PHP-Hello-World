@@ -12,3 +12,13 @@ class HelloWorldTest extends PHPUnit_Framework_TestCase
     }
 }
 
+
+
+<?php
+
+function HelloWorld(){
+    print "Hello, World!";
+
+    }  
+
+?>
